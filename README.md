@@ -1,4 +1,4 @@
-<h3 align="center"> || NATHAELL BRYAN</h3>
+<h3 align="center"> NATHAELL || BRYAN</h3>
 
 ![](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
 
